@@ -20,11 +20,6 @@ The **Interactive Lamp Login Page** is a modern and creative login interface bui
 
 ---
 
-## 📌 Live Demo
-Check out the live demo [here](#).  
-
----
-
 ## 🛠️ Installation
 1. Clone the repository:
    ```bash
