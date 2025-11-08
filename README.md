@@ -1,35 +1,32 @@
-##Interactive Lamp Login Page 💡
 
-Interactive Lamp Login Page is a modern and creative login interface built with HTML, CSS, and GSAP. Pull the lamp cord to toggle the light, revealing a beautifully animated login form with smooth transitions.
+# 💡 Interactive Lamp Login Page
 
-Features
+The **Interactive Lamp Login Page** is a modern and creative login interface built with **HTML, CSS, and GSAP**. Users can pull the lamp cord to toggle the light, revealing a beautifully animated login form with smooth and engaging transitions. Perfect for designers and developers exploring interactive UI patterns.
 
-✨ Interactive Animation: Pull the lamp cord to turn the light on/off.
+---
 
-🎨 MorphSVG Effects: Seamless shape transformations for realistic motion.
+## 🚀 Features
+- **✨ Interactive Animation:** Pull the lamp cord to turn the light on or off.  
+- **🎨 MorphSVG Effects:** Seamless shape transformations for realistic and fluid motion.  
+- **📱 Responsive Design:** Optimized for desktops, tablets, and mobile devices.  
+- **⚡ Modern UI Inspiration:** Ideal for learning advanced web animations and interactive login interfaces.  
 
-📱 Responsive Design: Looks great on desktops, tablets, and mobile devices.
+---
 
-⚡ Modern UI Inspiration: Perfect for developers and designers exploring unique login experiences.
+## 🔧 Technologies Used
+- **HTML5** – Semantic structure and layout  
+- **CSS3** – Styling and responsive design  
+- **GSAP (GreenSock Animation Platform)** – High-performance animations and transitions  
 
-Demo
+---
 
-Check out the live demo here
- (replace # with your live demo link).
+## 📌 Live Demo
+Check out the live demo [here](#).  
 
-Technologies Used
+---
 
-HTML5
+## 🛠️ Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/interactive-lamp-login.git
 
-CSS3
-
-GSAP (GreenSock Animation Platform)
-
-Installation
-
-Clone the repository:
-
-git clone https://github.com/your-username/interactive-lamp-login.git
-
-
-Open index.html in your browser.
